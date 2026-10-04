@@ -1,0 +1,3 @@
+# Katalog roboczy Vagranta, tworzony automatycznie
+.vagrant/
+*.log
