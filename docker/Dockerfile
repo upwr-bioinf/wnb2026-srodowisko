@@ -1,4 +1,4 @@
-# Wprowadzenie do narzedzi biotechnologicznych
+# Wprowadzenie do narzedzi bioinformatycznych
 # Wariant zapasowy srodowiska zajec, oparty na kontenerze.
 #
 # Przeznaczenie: komputery, na ktorych nie da sie uruchomic maszyny
@@ -11,7 +11,7 @@
 
 FROM ubuntu:24.04
 
-LABEL opis="Srodowisko zajec: Wprowadzenie do narzedzi biotechnologicznych"
+LABEL opis="Srodowisko zajec: Wprowadzenie do narzedzi bioinformatycznych"
 LABEL rok="2026/2027"
 
 ENV DEBIAN_FRONTEND=noninteractive

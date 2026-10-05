@@ -1,5 +1,5 @@
 {
-  "name": "Wprowadzenie do narzędzi biotechnologicznych 2026/2027",
+  "name": "Wprowadzenie do narzędzi bioinformatycznych 2026/2027",
   "build": {
     "dockerfile": "Dockerfile"
   },

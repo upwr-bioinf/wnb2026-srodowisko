@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 #
-# Wprowadzenie do narzedzi biotechnologicznych
+# Wprowadzenie do narzedzi bioinformatycznych
 # Maszyna wirtualna do zajec, rok akademicki 2026/2027
 # dr inz. Bartosz Kozak, Uniwersytet Przyrodniczy we Wroclawiu
 #

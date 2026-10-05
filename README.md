@@ -1,4 +1,4 @@
-# Środowisko zajęć — Wprowadzenie do narzędzi biotechnologicznych
+# Środowisko zajęć — Wprowadzenie do narzędzi bioinformatycznych
 
 Rok akademicki 2026/2027.
 
